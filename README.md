@@ -1,2 +1,2 @@
 # izakaya-nobunaga-vue-js
-Japanese Restaurant
+Japanese Restaurant Version 2
